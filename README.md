@@ -1,13 +1,13 @@
 ## OtonaPRG200219
-# PyFukuoka #6 福岡のPython好き集まれー！
+# オトナのpandas勉強会@未来会議室
 
-- 2019/07/18(木) 19:00 〜 21:00
-- サンライトビル４階 福岡県福岡市中央区渡辺通５丁目２３−８
-- https://fukuoka-python.connpass.com/event/137331/
+- 2020/02/19(水) 19:00 〜 21:00
+- 未来会議室  熊本県熊本市 中央区下通１丁目１２−２７
+- https://otona.connpass.com/event/157858/
 
 ## ファイルとフォルダの説明
-- pandas こんな感じで使いました。.pdf：ＬＴ説明資料
-- バスの現在位置を見える化してみた.ipynb：Pythonコード
+- pandas こんな感じで使いました。.pdf ： ＬＴ説明資料
+- バスの現在位置を見える化してみた.ipynb ： pandasの使用例
 - gtfs：GTFS（静的データ）を納めたフォルダ
-- result：Pythonコードの実行結果を納めるフォルダ
-- bus_map.mov：バス運行の動画
+- result ： 実行結果を納めるフォルダ
+- bus_map.mov ： バス運行の動画
