@@ -12,7 +12,7 @@
 - result ： 実行結果を納めるフォルダ
 - bus_map.mov ： バス運行の動画
 
-## 補足
+## 関連情報
 - PyFukuoka #6 (2019/07/18) のＬＴ　「バスの現在位置を見える化してみた」
   * https://fukuoka-python.connpass.com/event/137331/
 - 佐賀県の路線バス情報のデータ
