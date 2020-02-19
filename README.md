@@ -13,5 +13,5 @@
 - bus_map.mov ： バス運行の動画
 
 ## 補足
-- PyFukuoka #6 のＬＴ　「バスの現在位置を見える化してみた」
- - https://fukuoka-python.connpass.com/event/137331/
+- PyFukuoka #6 (2019/07/18) のＬＴ　「バスの現在位置を見える化してみた」
+  * https://fukuoka-python.connpass.com/event/137331/
