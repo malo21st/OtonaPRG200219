@@ -15,3 +15,5 @@
 ## 補足
 - PyFukuoka #6 (2019/07/18) のＬＴ　「バスの現在位置を見える化してみた」
   * https://fukuoka-python.connpass.com/event/137331/
+- 佐賀県の路線バス情報のデータ
+  * http://opendata.sagabus.info/
