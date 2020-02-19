@@ -17,3 +17,5 @@
   * https://fukuoka-python.connpass.com/event/137331/
 - 佐賀県の路線バス情報のデータ
   * http://opendata.sagabus.info/
+- 「標準的なバス情報フォーマット」解説　（国土交通省）
+  * http://www.mlit.go.jp/common/001282718.pdf
