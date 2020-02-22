@@ -9,6 +9,8 @@
 - pandas こんな感じで使いました。.pdf ： ＬＴ説明資料
 - バスの現在位置を見える化してみた.ipynb ： pandasの使用例
 - gtfs：GTFS（静的データ）を納めたフォルダ
+  * ダイヤ改正などで変更されます。最新の物をご利用下さい。
+    http://opendata.sagabus.info/
 - result ： 実行結果を納めるフォルダ
 - bus_map.mov ： バス運行の動画
 
